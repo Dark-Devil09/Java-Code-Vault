@@ -4,7 +4,7 @@
 <p> Welcome to Java Code Vault, your go-to repository for a comprehensive collection of Java programs.</>
 <h1>How to use</h1>
 <p> 1. Clone this repository to your local machine.
-<br>   git clone https://github.com/Dark-Devil09/Java-Code-Vault.git 
+<br>   <i>git clone https://github.com/Dark-Devil09/Java-Code-Vault.git</i> 
 <br>2. Browse through different directories based on your skill level and area of interest.
 <br>3. Run Java programs using your preferred IDE or command line.
 </p>
